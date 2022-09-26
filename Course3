@@ -9,3 +9,7 @@ Pawan Dubey
 Dynamic Programming
 Understanding the prolem and implementing a solution which is space and time efficient by structuring it into sub problems.
 
+Vinay Pai
+Divide and Conquer Algorithms
+Like any problem in life, software projects too are made up of multiple aspects that contribute individually and work in sync with each other to create the entire scenario. Using Divide and Conquer methodology, we can separate each or the underlying issues and work individually on solving each of them in a modular way. After that we test if each modular solution fits into the grand scheme of things and merge each module into the bigger system, and that is how modern systems are built.
+
